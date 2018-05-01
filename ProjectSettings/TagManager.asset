@@ -4,12 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Block
   - Red
   - Blue
-  - Enemy
-  - RedBall
-  - BlueBall
   - Wall
   layers:
   - Default
